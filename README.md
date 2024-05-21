@@ -1,2 +1,2 @@
-# simple_http_server
-The project implements a basic HTTP server using the Golang programming language.
+# simple http server
+This is a research project originally created by Amirmohammad Mosadeghi for a computer networks course. The project implements a basic HTTP server using the Golang programming language. It's intended for educational purposes only and not suitable for professional use. The developer strongly recommends against using it for anything other than exploring its structure and for learning purposes. No responsibility is taken by the developer for any misuse of this project.
